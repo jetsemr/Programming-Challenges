@@ -1,5 +1,6 @@
-# 7-22-2022
-# Write a function that concatenates two lists in alternating ways.
+# Author: Jet Semrick
+# Date: 7-22-2022
+# Problem: Write a function that concatenates two lists in alternating ways.
 
 def joinListsAlts(arr1, arr2):
   array = []
