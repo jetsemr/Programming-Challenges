@@ -1,5 +1,6 @@
-# 7-20-2022
-# Given an unordered array consisting of consecutive integers without any duplicates find the min number of swaps to sort the array.
+# Author: Jet Semrick
+# Date: 7-20-2022
+# Problem: Given an unordered array consisting of consecutive integers without any duplicates find the min number of swaps to sort the array.
 
 def swap(arr, a, b):
     temp = arr[a]
