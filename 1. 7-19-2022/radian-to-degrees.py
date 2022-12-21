@@ -1,5 +1,7 @@
-## 7-19-2022
-## Create a function that takes an angle in radians and returns the corresponding angle in degrees rounded to one decimal place.
+# Author: Jet Semrick
+# Date: 7-19-2022
+# Problem: Create a function that takes an angle in radians and returns the corresponding angle in degrees rounded to one decimal place.
+
 from math import pi
 
 def radians_to_degrees(radians):
