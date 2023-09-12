@@ -1,6 +1,6 @@
 # Author: Jet Semrick
 # Date: 09-12-2023
-# Problem: Implement a algorithm to rotate a matrix 90 degrees.
+# Problem: Implement a algorithm to fill cols and rows with zero if a zero is detected in the col or row.
 # Source: 1.8 from pg. 91 Cracking the Coding Interview
 
 def zero(arr):
