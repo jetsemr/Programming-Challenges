@@ -1,6 +1,6 @@
 # Author: Jet Semrick
 # Date: 09-19-2023
-# Problem: Return the Kth to last value in a Linked List
+# Problem: Return the Kth to last value in a Linked List.
 # Source: 2.2 from pg. 94 Cracking the Coding Interview
 
 class Node:
