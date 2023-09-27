@@ -1,5 +1,5 @@
 # Author: Jet Semrick
-# Date: 09-23-2023
+# Date: 09-26-2023
 # Problem: Implement a function to check if two singly linked lists intersect.
 # Source: 2.7 from pg. 94 Cracking the Coding Interview
 
