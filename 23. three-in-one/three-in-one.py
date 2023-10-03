@@ -1,3 +1,8 @@
+# Author: Jet Semrick
+# Date: 10-22-2023
+# Problem: Implement three stacks into a single array.
+# Source: 3.1 from pg. 98 Cracking the Coding Interview
+
 class MultiStack:
   def __init__(self, stacksize):
     self.numstacks = 3
