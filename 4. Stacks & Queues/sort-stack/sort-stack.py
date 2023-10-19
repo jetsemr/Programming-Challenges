@@ -5,12 +5,13 @@
 
 import sys
 sys.path.append("..")
-import stack
+# pylint: disable=import-error
+import structures
 
 class SortedStack:
   def __init__(self):
-    self.main = stack.Stack()
-    self.helper = stack.Stack()
+    self.main = structures.Stack()
+    self.helper = structures.Stack()
   
   def push(self, value):
     while (not self.main.isEmpty() and self.main.peek() < value):
