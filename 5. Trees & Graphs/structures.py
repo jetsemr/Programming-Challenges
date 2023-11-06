@@ -8,9 +8,11 @@ class Node:
 
 class Graph:
   def __init__(self):
-    self.adajacencyList = {}
+    self.adjacencyList = {}
   
-  def addVertice(value):
-    return 1
+  def addVertice(self, node):
+    self.adjacencyList[node.value] = []
+
   def addEdge(a, b):
-    return 1  
+    self.adjacencyList[a].append(b)
+    self.adjacencyList[b].append(a)
